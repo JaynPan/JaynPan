@@ -58,7 +58,7 @@ Back on track 🤣. I built web & mobile apps in my previous two jobs as a front
 
 ---
 
-### My Stats 🧐🧐
+### My Stats 📊📊
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaynPan&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaynPan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
