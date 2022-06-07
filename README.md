@@ -31,7 +31,7 @@ Back on track 🤣. I built web & mobile apps in my previous two jobs as a front
 
 ### Current Goals 👊🏻👊🏻
 
-1. Challenge myself to solve at least one LeetCode medium problem a day lasting for two months starting from 5/15 (...excluding holidays 🤣). Check out the problem that I solved at this [repo](https://github.com/JaynPan/leetcode)
+1. Challenge myself to solve at least one LeetCode problem a day lasting for two months starting from 5/15 (...excluding holidays 🤣). Check out the problem that I solved at this [repo](https://github.com/JaynPan/leetcode)
 2. Build a cocktail recipes mobile iOS/Android app for any cocktail enthusiast, who badly remembers the recipes likes me. The main stacks of this app are React Native, NestJS, PostgreSQL. I am recently redesigning UI with dark mode and constructing the database. I will push the repo to GitHub shortly. Publish to app store may wait for a while 😬😬
 
 ---
