@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  Hello Mate!
+  What's poppin'?
 </h3>
 <h3 align="center">
   My name is Jay, I specialize in TypeScript, React, and React Native.
