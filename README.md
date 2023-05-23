@@ -25,7 +25,7 @@ I changed my career path in 2018 and entered the programming world.
 Coding is not easy, and it makes me frustrated from time to time.
 However, isn't it the amazing part of life? You take obstacles in stride, solve them and make yourself stronger.
 
-Back on track 🤣. I built web & mobile apps in my previous three jobs as a front-end developer. I also develop full-stack applications after work.
+Back on track 🤣. I built web & mobile apps in my previous three jobs as a front-end developer. I also develop full-stack applications after work.</br>
 Check out [foobars](https://apps.apple.com/us/app/foobars/id6448900991), the app which is a social media app for you to resolve decideophobia and discover, connect, and share your favorites dish with your hommie
 
 ---
