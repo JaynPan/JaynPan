@@ -25,14 +25,8 @@ I changed my career path in 2018 and entered the programming world.
 Coding is not easy, and it makes me frustrated from time to time.
 However, isn't it the amazing part of life? You take obstacles in stride, solve them and make yourself stronger.
 
-Back on track 🤣. I built web & mobile apps in my previous two jobs as a front-end developer. And I am preparing to become a full-stack developer soon!
-
----
-
-### Current Goals 👊🏻👊🏻
-
-1. Challenge myself to solve at least one LeetCode problem a day lasting for two months starting from 5/15 (...excluding holidays 🤣). Check out the problem that I solved at this [repo](https://github.com/JaynPan/leetcode)
-2. Build a cocktail recipes mobile iOS/Android app for any cocktail enthusiast, who badly remembers the recipes likes me. The main stacks of this app are React Native, NestJS, PostgreSQL. I am recently redesigning UI with dark mode and constructing the database. I will push the repo to GitHub shortly. Publish to app store may wait for a while 😬😬
+Back on track 🤣. I built web & mobile apps in my previous three jobs as a front-end developer. I also develop full-stack applications after work.
+Check out [foobars](https://apps.apple.com/us/app/foobars/id6448900991), the app which is a social media app for you to resolve decideophobia and discover, connect, and share your favorites dish with your hommie
 
 ---
 
